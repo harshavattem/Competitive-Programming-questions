@@ -26,7 +26,7 @@ git commit -m 'Added question-name'
 git push origin master
 ```
 
-- Create a new pull request from your forked repository
+- Create a new pull request from your forked repository.
 - Your PR gets merged! 🎃
 - Now you can help others do the same.
 
